@@ -7,7 +7,8 @@ Project 0 Getting Started
   * [LinkedIn](https://www.linkedin.com/in/maaz-saeed1/)
 * Tested on: Windows 11, 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz (2.30 GHz), RTX 3050 Ti (Personal laptop)
 
-### (README)
+### README
 
 ![CUDA GL CHECK](images/2.1.1_.png)
 ![Nsight Debugging, Autos window, and Warp Info](images/2.1.3_.png)
+![Nsight Systems](images/2.1.4_.png)
