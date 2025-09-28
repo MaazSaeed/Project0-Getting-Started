@@ -12,3 +12,6 @@ Project 0 Getting Started
 ![CUDA GL CHECK](images/2.1.1_.png)
 ![Nsight Debugging, Autos window, and Warp Info](images/2.1.3_.png)
 ![Nsight Systems](images/2.1.4_.png)
+![WebGL_1](images/2.1.5.1_.png)
+![WebGL_2](images/2.1.5.2_.png)
+![WebGPU](images/2.1.6_.png)
