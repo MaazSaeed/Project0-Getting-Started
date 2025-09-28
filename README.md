@@ -10,3 +10,4 @@ Project 0 Getting Started
 ### (README)
 
 ![CUDA GL CHECK](images/2.1.1_.png)
+![Nsight Debugging, Autos window, and Warp Info](images/2.1.3_.png)
